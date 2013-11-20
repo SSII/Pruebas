@@ -13,4 +13,10 @@ package javaapplication14;
 public class NewClass {
     int a;
     int b = 0;
+
+    public NewClass() {
+        b = 5*6;
+    }
+    
+    
 }
